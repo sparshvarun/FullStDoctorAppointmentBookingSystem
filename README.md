@@ -66,4 +66,3 @@ A full-stack Doctor Appointment Booking System built using the MERN (MongoDB, Ex
 ### Clone the Repository
 ```bash
 git clone https://github.com/yourusername/doctor-appointment-system.git
-cd doctor-appointment-system
